@@ -1,5 +1,3 @@
-# Mayuresh Shilotri - @MayureshShilotri 👋
-
 Hi, I am Mayuresh, co-founder of [GreyAtom](https://greyatom.com) redefining the way people learn technology. Previously, co-founded Customer360, which was venture backed and later acquired by Interactive Intelligence (NASDAQ: ININ) in 2015. I am based in Mumbai, India🇮🇳.  Besides programming, I am a foodie. 
 
 I believe 
