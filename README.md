@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on *GreyAtom*
 - 🌱 I’m currently learning *lots of things*
 - 💬 Ask me about marketing, user experience, product
-- 📫 How to reach me: [mail](mayuresh.shilotri@gmail.com)
+- 📫 How to reach me: [mail](mailto:mayuresh.shilotri@gmail.com)
 - ⚡ Fun fact: I run [DataGiri](https://www.meetup.com/DataGiri/)
