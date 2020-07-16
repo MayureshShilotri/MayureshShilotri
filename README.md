@@ -1,16 +1,14 @@
-### Hi there 👋
+# Mayuresh Shilotri - @MayureshShilotri 👋
 
-<!--
-**MayureshShilotri/MayureshShilotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Mayuresh, co-founder of [GreyAtom](https://greyatom.com) redefining the way people learn technology. Previously, co-founded Customer360, which was venture backed and later acquired by Interactive Intelligence (NASDAQ: ININ) in 2015. I am based in Mumbai, India🇮🇳.  Besides programming, I am a foodie. 
+
+I believe 
+> Maths is the ONLY Language
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on *GreyAtom*
+- 🌱 I’m currently learning *lots of things*
+- 💬 Ask me about marketing, user experience, product
+- 📫 How to reach me: [mail](mayuresh.shilotri@gmail.com)
+- ⚡ Fun fact: I run [DataGiri](https://www.meetup.com/DataGiri/)
