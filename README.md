@@ -17,4 +17,4 @@ I have bootstrapped for 3-member founder teams - to work in companies sized 100,
 
 I have worked in Healthcare for 6 years (Pharma/ Payor/ Provider), B2B SaaS for 4 Years and EdTech for 4 Years. I can mix Data Science, Technology, Learning, and User Experience to build products for all stakeholders. In the future, focus is EdTech. Specifically, on building products for Learners that create impact for learners and drive financial for businesses.
 
-Find more [here](www.shilotri.com)
+Find more [here](https://www.shilotri.com)
