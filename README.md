@@ -7,7 +7,7 @@ Previously, co-founded Customer360, which was venture backed and later acquired 
 I believe 
 > Maths is the ONLY Language
 
-Here are some ideas to get you started:
+Here are some ideas to get you started::
 
 - 🔭 I’m currently working on *BrowserStack*
 - 🌱 I’m currently learning *React*
