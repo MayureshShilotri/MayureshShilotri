@@ -1,6 +1,6 @@
-Hi, I am Mayuresh, I run Presales for BrowserStack. 
+Hi, I am Mayuresh, I run Sales Engineering and Support @ BrowserStack. 
 
-Previousy, co-founder of [GreyAtom](https://greyatom.com) redefining the way people learn technology. 
+Previousy, co-founder of GreyAtom redefining the way people learn technology. 
 
 Previously, co-founded Customer360, which was venture backed and later acquired by Interactive Intelligence (NASDAQ: ININ) in 2015. I am based in Mumbai, India🇮🇳.  Besides programming, I am a foodie. 
 
@@ -10,8 +10,8 @@ I believe
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *BrowserStack*
-- 🌱 I’m currently learning *React*
-- 💬 Ask me about PreSales, product, marketing, user experience 
+- 🌱 I’m currently learning AI
+- 💬 Ask me about Sales Engineering, Product, Data, Marketing, UX
 - 📫 How to reach me: [mail](mailto:mayuresh.shilotri@gmail.com)
 
 I have bootstrapped for 3-member founder teams - to work in companies sized 100,000+ people. Experienced in raising funds from Angels and VCs. I have seen the life-cycle of businesses from inception to successful exit multiple times. I have worked and experienced different aspects of business - strategic, commercial, people, creative, financial and delivery.
