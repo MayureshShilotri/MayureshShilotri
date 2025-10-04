@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI
 - 💬 Ask me about Sales Engineering, AI, Product, Data, Marketing, UX
 - 📫 How to reach me: [mail](mailto:mayuresh@shilotri.com)
-
 ![alt text](https://shilotri.com/wp-content/uploads/2025/09/Mayuresh-Shilotri-Skill-Map.jpg)
-
 Find more [here](https://www.shilotri.com)
